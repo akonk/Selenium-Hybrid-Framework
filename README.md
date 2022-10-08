@@ -1,2 +1,2 @@
-# Selenium Hybdrid Framework-[BookyMyShow Movie Application]
+# Selenium Hybdrid Framework-[BookMyShow Movie Application]
 Java Programming | OOPS | TestNG | Maven | Page Object Model | Log4j | Extent Reports | 
